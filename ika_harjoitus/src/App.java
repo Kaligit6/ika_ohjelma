@@ -39,8 +39,9 @@ public class App {
             System.out.println("Voit harkita varhaiseläkettä");
         } 
         if (ika >= 40 && ika <= 50) {
-                System.out.println("Parasta keksi-ikää");
+                System.out.println("Parasta keski-ikää");
             }
         
     }
 }
+
