@@ -12,9 +12,9 @@ public class App {
             }
             
         }
-        else if (ika >= 65)
+        else if (ika >= 60)
         {
-            System.out.println("Olet eläkeläinen");
+            System.out.println("Olet eläkkeellä");
         }
         if (ika == 70 || ika == 80 || ika == 90) {
             System.out.println("Onnea vuosikymmenistä");
@@ -44,5 +44,6 @@ public class App {
         
     }
 }
+
 
 
